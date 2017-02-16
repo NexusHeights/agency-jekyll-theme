@@ -6,6 +6,7 @@ modal-id: 1
 date: 2016-02-26
 img: rng-master.png
 thumbnail: rng-master-thumb.png
+appstore: http://appstor.io/go/appstore/1089485378
 alt: RNG Master logo.
 project-date: February 2016
 category: iOS / WatchOS

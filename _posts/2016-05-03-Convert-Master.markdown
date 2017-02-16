@@ -4,6 +4,7 @@ subtitle: iOS
 layout: default
 modal-id: 4
 date: 2016-05-03
+appstore: http://appstor.io/go/appstore/1137413166
 img: convert-master.png
 thumbnail: convert-master-thumb.png
 alt: Convert Master logo.
