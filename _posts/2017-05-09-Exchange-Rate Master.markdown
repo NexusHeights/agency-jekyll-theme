@@ -2,7 +2,7 @@
 title: Exchange Rate Master
 subtitle: iOS / WatchOS
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2017-05-09
 img: exchange-rate-master.png
 thumbnail: exchange-rate-master-thumb.png
