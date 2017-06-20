@@ -2,7 +2,7 @@
 title: Exchange Rate Master TV
 subtitle: tvOS
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2017-05-10
 img: exchange-rate-master.png
 thumbnail: exchange-rate-master-thumb.png
