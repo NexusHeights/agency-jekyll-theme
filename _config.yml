@@ -18,13 +18,6 @@ people:
     - title: github
       url: http://github.com/HunterStanton
 
-- name: Drew Michel
-  pic: 2
-  position: Co-Founder
-  social:
-    - title: twitter
-      url: http://twitter.com/drew_michel
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
